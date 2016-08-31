@@ -1,0 +1,11 @@
+public class Employee {
+	private int employeeId;
+	private double basicPay;
+	
+	public Employee(){
+		employeeId = 1001;
+		basicPay = 12500.0;
+	}
+
+	
+}
