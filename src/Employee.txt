@@ -1,8 +1,10 @@
 public class Employee {
-	private int employeeId;
+	private int employeeId1;
 	private double basicPay;
 	
 	private String employeeName;
 	
 	//added for feature 2
+	
+	// added for feature 4
 }
